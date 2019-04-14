@@ -1,0 +1,615 @@
+"Read Details","Batafsil ma'lumot",module,Magento_AdminNotification
+"Mark as Read","O'qilgan deb belgilash",module,Magento_AdminNotification
+"Are you sure?","Ishonchingiz komilmi?",module,Magento_AdminNotification
+Remove,O'chirish,module,Magento_AdminNotification
+"Messages Inbox","Kirish xabarlari qutisi",module,Magento_AdminNotification
+"You have %1 new system messages","Sizda %1 ta yangi tizim xabarlari mavjud",module,Magento_AdminNotification
+"You have %1 new system message","Sizda %1 ta yangi tizim xabarlari mavjud",module,Magento_AdminNotification
+"Incoming Message","Kiruvchi xabar",module,Magento_AdminNotification
+close,yopish,module,Magento_AdminNotification
+Notifications,Bildirishnomalar,module,Magento_AdminNotification
+"The message has been marked as Read.","Xabar o'qilgan deb belgilandi.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","Bildirishnomani xatolik tufayli o'qib bo'lmadi.",module,Magento_AdminNotification
+"Please select messages.","Xabarlarni tanlang.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Jami %1 yozuv(lar) o'qilgan deb belgilandi.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Jami %1 yozuv(lar) olib tashlandi.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","Xatolar tufayli xabarlarni olib tashlab bo'lmadi.",module,Magento_AdminNotification
+"The message has been removed.","Xabar o'chirildi.",module,Magento_AdminNotification
+"1 Hour","1 Soat",module,Magento_AdminNotification
+"2 Hours","2 Soat",module,Magento_AdminNotification
+"6 Hours","6 Soat",module,Magento_AdminNotification
+"12 Hours","12 Soat",module,Magento_AdminNotification
+"24 Hours","24 Soat",module,Magento_AdminNotification
+critical,"juda muhim",module,Magento_AdminNotification
+major,katta,module,Magento_AdminNotification
+minor,kichik,module,Magento_AdminNotification
+notice,ogohlantirish,module,Magento_AdminNotification
+"Wrong message type","Noto'g'ri xabar turi",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Bir yoki bir nechta kesh turlari bekor qilindi: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Iltimos, <a href=""%1""> keshni boshqarish </a> ga o'ting va kesh turlarini yangilang.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","Ombor omborlarini sinxronlash tugallandi.",module,Magento_AdminNotification
+Close,Yoping,module,Magento_AdminNotification
+"Critical System Messages","Muhim tizim xabarlari",module,Magento_AdminNotification
+"Major System Messages","Asosiy tizim xabarlari",module,Magento_AdminNotification
+"System messages","Tizim xabarlari",module,Magento_AdminNotification
+"You created the order.","Buyurtmani yaratdingiz.",module,Magento_Authorizenet
+"Order saving error: %1","Buyurtmani saqlash xatosi: %1",module,Magento_Authorizenet
+"Please choose a payment method.","Iltimos, to'lov usulini tanlang.",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Kredit kartasi: xxxx-%1",module,Magento_Authorizenet
+"amount %1","%1 miqdori",module,Magento_Authorizenet
+authorize,avtorizatsiya,module,Magento_Authorizenet
+"authorize and capture","avtorizatsiyalash va ro'yxatga olish",module,Magento_Authorizenet
+capture,"ro'yxatga olish",module,Magento_Authorizenet
+refund,"qaytarib berish",module,Magento_Authorizenet
+void,"bekor qilindi",module,Magento_Authorizenet
+"Gateway error: %1","Gateway xatosi: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","To'lov daftarida xatolik yuz berdi.",module,Magento_Authorizenet
+"Invalid amount for capture.","Yozuv hajmi noto'g'ri.",module,Magento_Authorizenet
+"Payment capturing error.","To'lovni ro'yxatga olishda xatolik yuz berdi.",module,Magento_Authorizenet
+"Invalid transaction ID.","ID raqami noto'g'ri.",module,Magento_Authorizenet
+"Payment voiding error.","To'lovni bekor qilishda xatolik yuz berdi.",module,Magento_Authorizenet
+"Invalid amount for refund.","Qaytariladigan pul miqdori noto'g'ri.",module,Magento_Authorizenet
+"Payment refunding error.","To'lovni qaytarishda xatolik.",module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.","Jarayon rad etildi, chunki hash tekshiruvi muvaffaqiyatsiz tugadi.",module,Magento_Authorizenet
+"There was a payment authorization error.","To'lovni tasdiqlashda xatolik yuz berdi.",module,Magento_Authorizenet
+"Authorize Only","Faqat avtorizatsiya qiling",module,Magento_Authorizenet
+"Authorize and Capture","Avtorizatsiyalash va Ro'yxatga olish",module,Magento_Authorizenet
+"Credit Card Type","Kredit kartasi turi",module,Magento_Authorizenet
+"Credit Card Number","Kredit karta raqami",module,Magento_Authorizenet
+"Expiration Date","Amal qilish muddati",module,Magento_Authorizenet
+"Card Verification Number","Karta tasdiqlash kodi",module,Magento_Authorizenet
+"Invalid Form Key. Please refresh the page.","Kalit shakli yaroqsiz. Iltimos, sahifani yangilang.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","Siz noto'g'ri kalitni kiritdingiz. Iltimos, sahifani yangilang.",module,Magento_Backend
+"Cache Storage Management","Kesh saqlash boshqaruvi",module,Magento_Backend
+"Flush Magento Cache","Magentoni keshini tozalang",module,Magento_Backend
+"Flush Cache Storage","Keshni saqlash joyini tozalash",module,Magento_Backend
+Invalidated,Noto'g'ri,module,Magento_Backend
+Orders,Buyurtmalar,module,Magento_Backend
+Amounts,Miqdor,module,Magento_Backend
+Bestsellers,"Eng ko'p sotilganlar",module,Magento_Backend
+"Most Viewed Products","Eng ko'p ko'rilgan mahsulotlar",module,Magento_Backend
+"New Customers","Yangi mijozlar",module,Magento_Backend
+Customers,Xaridorlar,module,Magento_Backend
+Customer,Xaridor,module,Magento_Backend
+Guest,Mehmon,module,Magento_Backend
+Items,Mahsulotlar,module,Magento_Backend
+Total,Jami,module,Magento_Backend
+"Lifetime Sales","Jami savdo",module,Magento_Backend
+"Average Order","O'rtacha Buyurtma",module,Magento_Backend
+Average,O'rtacha,module,Magento_Backend
+Product,Mahsulot,module,Magento_Backend
+Price,Narx,module,Magento_Backend
+Quantity,Miqdor,module,Magento_Backend
+Views,Ko‘rishlar,module,Magento_Backend
+Revenue,Daromad,module,Magento_Backend
+Tax,Soliq,module,Magento_Backend
+Shipping,"Yetkazib berish",module,Magento_Backend
+"Images (.gif, .jpg, .png)","Rasmlar (.gif, .jpg, .png)",module,Magento_Backend
+"All Files","Barcha fayllar",module,Magento_Backend
+"Reset to Default","Standart holatga qaytarish",module,Magento_Backend
+"All Store Views","Barcha do'konlarga tashriflar",module,Magento_Backend
+"What is this?","Bu nima?",module,Magento_Backend
+"Save Account","Profilni saqlash",module,Magento_Backend
+"My Account","Mening profilim",module,Magento_Backend
+"Account Information","Profil ma'lumotlari",module,Magento_Backend
+"User Name","Foydalanuvchi nomi",module,Magento_Backend
+"First Name",Ism,module,Magento_Backend
+"Last Name",Familiya,module,Magento_Backend
+"User Email","Foydalanuvchi email",module,Magento_Backend
+"New Password","Yangi Parol",module,Magento_Backend
+"Password Confirmation","Parolni tasdiqlash",module,Magento_Backend
+"Interface Locale","Interfeys tili",module,Magento_Backend
+"Current User Identity Verification","Joriy foydalanuvchi identifikatorini tasdiqlash",module,Magento_Backend
+"Your Password",Parolingiz,module,Magento_Backend
+"Save Cache Settings","Keshni saqlash",module,Magento_Backend
+"Catalog Rewrites","Katalogni qayta nomlash",module,Magento_Backend
+Refresh,Yangilash,module,Magento_Backend
+"Images Cache","Rasm keshi",module,Magento_Backend
+Clear,Tozalash,module,Magento_Backend
+"Search Index","Qidiruv indeksi",module,Magento_Backend
+Rebuild,"Qayta qurish",module,Magento_Backend
+"Inventory Stock Status","Omborni inventarizatsiya qilish",module,Magento_Backend
+"Rebuild Catalog Index","Katalog indeksini qayta yarating",module,Magento_Backend
+"Rebuild Flat Catalog Category","Katalogni qayta yaratish",module,Magento_Backend
+"Rebuild Flat Catalog Product","Mahsulot katalogni qayta yaratish",module,Magento_Backend
+"Cache Control","Keshni boshqarish",module,Magento_Backend
+"All Cache","Barcha keshlar",module,Magento_Backend
+"No change",O'zgarishsiz,module,Magento_Backend
+Disable,O'chirish,module,Magento_Backend
+Enable,Yoqish,module,Magento_Backend
+"Add Design Change","Dizaynni o'zgartiring",module,Magento_Backend
+Back,Orqaga,module,Magento_Backend
+Delete,O‘chirish,module,Magento_Backend
+"Are you sure?","Ishonchingiz komilmi?",module,Magento_Backend
+Save,Saqlash,module,Magento_Backend
+"Edit Design Change","Dizaynni o'zgartirishni tahrirlash",module,Magento_Backend
+"New Store Design Change","Yangi do'kon dizayni o'zgarishi",module,Magento_Backend
+"General Settings","Umumiy sozlamalar",module,Magento_Backend
+Store,Do'kon,module,Magento_Backend
+"-- Please Select --","-- Iltimos tanlang --",module,Magento_Backend
+"Custom Design","Maxsus dizayn",module,Magento_Backend
+"Date From","Sanadan boshlab",module,Magento_Backend
+"Date To","Sana bo'yicha",module,Magento_Backend
+"Design Change","Dizayn o'zgarishi",module,Magento_Backend
+General,Asosiy,module,Magento_Backend
+Cancel,"Bekor qilish",module,Magento_Backend
+"Delete %1 '%2'","%1 '%2' o'chirib tashlash",module,Magento_Backend
+"Delete %1","%1 o'chirib tashlash",module,Magento_Backend
+"Block Information","Bloklash ma'lumoti",module,Magento_Backend
+"Backup Options","Zahira parametrlari",module,Magento_Backend
+"Create DB Backup","Ma'lumotlar bazasini zaxiralash",module,Magento_Backend
+Yes,Ha,module,Magento_Backend
+No,Yo'q,module,Magento_Backend
+"Delete Store","Do'konni o'chirish",module,Magento_Backend
+"Delete Web Site","Veb-saytni o'chirish",module,Magento_Backend
+"Save Web Site","Veb-saytni saqlash",module,Magento_Backend
+"Save Store","Do'konni saqlash",module,Magento_Backend
+"Save Store View","Do'konni ko'rinishini saqlash",module,Magento_Backend
+"Delete Store View","Do'konni ko'rinishini o'chirish",module,Magento_Backend
+"Edit Web Site","Veb-saytni tahrirlash",module,Magento_Backend
+"New Web Site","Yangi veb-sayt",module,Magento_Backend
+"Edit Store","Do'konni tahrirlash",module,Magento_Backend
+"New Store","Yangi do'kon",module,Magento_Backend
+"Edit Store View","Do'konni ko'rinishini tahrirlash",module,Magento_Backend
+"New Store View","Do'konning yangi ko'rinishi",module,Magento_Backend
+"Store Information","Do'kon haqida ma'lumot",module,Magento_Backend
+"Web Site",Veb-sayt,module,Magento_Backend
+Name,Ism,module,Magento_Backend
+"Root Category","Asosiy kategoriya",module,Magento_Backend
+"Default Store View","Standart do'konni ko'rish",module,Magento_Backend
+"Store View Information","Savdo ma'lumotlarini ko'rish",module,Magento_Backend
+Code,Kod,module,Magento_Backend
+Status,Holat,module,Magento_Backend
+Disabled,O'chirish,module,Magento_Backend
+Enabled,Yoqish,module,Magento_Backend
+"Sort Order","Tartiblash tartibi",module,Magento_Backend
+"Web Site Information","Veb-sayt haqida ma'lumot",module,Magento_Backend
+"Default Store","Standart do'kon",module,Magento_Backend
+"Set as Default","Standart sifatida belgilash",module,Magento_Backend
+Stores,Do'konlar,module,Magento_Backend
+"Create Website","Veb-sayt yaratish",module,Magento_Backend
+"Create Store","Do'kon yaratish",module,Magento_Backend
+"Create Store View","Do'kon ko'rinishini yaratish",module,Magento_Backend
+Home,"Bosh sahifa",module,Magento_Backend
+Reset,"Qayta o'rnatish",module,Magento_Backend
+"Are you sure you want to do this?","Buni xohlayotganingizga aminmisiz?",module,Magento_Backend
+"Add New Image","Yangi rasm qo'shish",module,Magento_Backend
+"Reset Filter","Filtrni tiklash",module,Magento_Backend
+Search,Qidiruv,module,Magento_Backend
+Any,"Har qanday",module,Magento_Backend
+"All Countries","Barcha mamlakatlar",module,Magento_Backend
+From,-dan,module,Magento_Backend
+To,-ga,module,Magento_Backend
+"Date selector","Sanani tanlang",module,Magento_Backend
+"[ deleted ]","[ o'chirilgan ]",module,Magento_Backend
+"Select All","Hammasini belgilash",module,Magento_Backend
+" [deleted]"," [o'chirilgan]",module,Magento_Backend
+"Add New","Yangisini qo'shish",module,Magento_Backend
+Export,Eksport,module,Magento_Backend
+"Please correct the column format and try again.","Ustun formatini o'zgartiring va qaytadan urinib ko'ring.",module,Magento_Backend
+Submit,Yuboring,module,Magento_Backend
+"Please correct the tab configuration and try again.","Yorliq konfiguratsiyasini to'g'rilab, qaytadan urinib ko'ring.",module,Magento_Backend
+"You have logged out.","Siz tizimdan chiqdingiz.",module,Magento_Backend
+"The image cache was cleaned.","Rasm keshi tozalangan.",module,Magento_Backend
+"An error occurred while clearing the image cache.","Rasm keshini tozalashda xatolik yuz berdi.",module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.","JavaScript / CSS keshlari tozalangan.",module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.","JavaScript / CSS keshini tozalashda xatolik yuz berdi.",module,Magento_Backend
+"You flushed the cache storage.","Siz keshni xotiradan o'chirib yubordingiz.",module,Magento_Backend
+"The Magento cache storage has been flushed.","Magento kesh xotirasi o'chirildi.",module,Magento_Backend
+"Cache Management","Keshlarni boshqarish",module,Magento_Backend
+"%1 cache type(s) disabled.","%1 kesh turi o'chirilgan.",module,Magento_Backend
+"An error occurred while disabling cache.","Keshni o'chirishda xatolik yuz berdi.",module,Magento_Backend
+"%1 cache type(s) enabled.","%1 kesh turi yoqildi.",module,Magento_Backend
+"An error occurred while enabling cache.","Keshni yoqish paytida xatolik yuz berdi.",module,Magento_Backend
+"%1 cache type(s) refreshed.","%1 kesh turi yangilandi.",module,Magento_Backend
+"An error occurred while refreshing cache.","Keshni yangilanayotganda xatolik yuz berdi.",module,Magento_Backend
+Dashboard,"Boshqaruv paneli",module,Magento_Backend
+"invalid request","noto'g'ri so'rov",module,Magento_Backend
+"see error log for details","tafsilotlar uchun xato jurnaliga qarang",module,Magento_Backend
+"Service unavailable: %1","Xizmat mavjud emas: %1",module,Magento_Backend
+Error,Xato,module,Magento_Backend
+"You need more permissions to do this.","Sizga ko'proq foydalanuvchi huquqlari kerak.",module,Magento_Backend
+"No search modules were registered","Qidiruv modullari ro'yxatga olinmagan",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","Barcha global boshqaruv ma`lumotlari modullarining o`rnatilganligi va faollashtirilganligiga ishonch hosil qiling.",module,Magento_Backend
+"You saved the account.","Profilni saqladingiz.",module,Magento_Backend
+"An error occurred while saving account.","Profilni saqlash vaqtida xatolik yuz berdi.",module,Magento_Backend
+"You deleted the design change.","Siz dizayn o'zgarishini o'chirdingiz.",module,Magento_Backend
+"Store Design","Do'konning dizayni",module,Magento_Backend
+"Edit Store Design Change","Do'kon tarkibini o'zgartirish",module,Magento_Backend
+"You saved the design change.","Dizayn o'zgarishini saqladingiz.",module,Magento_Backend
+System,Tizim,module,Magento_Backend
+"Manage Stores","Do'konlarni boshqarish",module,Magento_Backend
+"The database was backed up.","Ma'lumotlar bazasining zaxira nusxasi yaratildi.",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","%1 ni o'chirib tashlash, %1 bilan bog'liq ma'lumotlarni o'chirib tashlamaydi (masalan, toifalar, mahsulotlar, va boshqalar), lekin %1 tiklanmaydi. %1 silmasdan oldin ma'lumotlar bazasini zaxiralang.",module,Magento_Backend
+"This store cannot be deleted.","Ushbu do'konni o'chirib bo'lmaydi.",module,Magento_Backend
+"This store view cannot be deleted.","Ushbu do'kon ko'rinishi o'chirib bo'lmaydi.",module,Magento_Backend
+"Store View","Do'konning ko'rinishi",module,Magento_Backend
+"This website cannot be deleted.","Ushbu veb-saytni o'chirib bo'lmaydi.",module,Magento_Backend
+"The website does not exist.","Veb-sayt mavjud emas.",module,Magento_Backend
+"The store does not exist","Do'kon mavjud emas",module,Magento_Backend
+"Store view doesn't exist","Do'kon ko'rinishi mavjud emas",module,Magento_Backend
+"New ","Yangi ",module,Magento_Backend
+"Last 24 Hours","Oxirgi 24 soat",module,Magento_Backend
+"Last 7 Days","Oxirgi 7 kun",module,Magento_Backend
+"Current Month","Joriy oy",module,Magento_Backend
+Order,Buyurtma,module,Magento_Backend
+"Order #%1","Buyurtma #%1",module,Magento_Backend
+"Welcome, please sign in","Xush kelibsiz, iltimos, tizimga kiring",module,Magento_Backend
+"user name","foydalanuvchi nomi",module,Magento_Backend
+password,parol,module,Magento_Backend
+"Sign in","Tizimga kirish",module,Magento_Backend
+"Select Range:","Qator oralig'ini tanlang:",module,Magento_Backend
+"No Data Found","Ma'lumot topilmadi",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Grafik o'chirilgan. Grafikni yoqish uchun <a href=""%1""> bu yerda </a> bosing.",module,Magento_Backend
+"Last Orders","Oxirgi Buyurtma",module,Magento_Backend
+"Last Search Terms","So'nggi izlanishlar",module,Magento_Backend
+"There are no search keywords.","Hech qanday qidirish kalit so'zlari yo'q.",module,Magento_Backend
+"View Statistics For:","Statistikani ko'rish uchun:",module,Magento_Backend
+"All Websites","Barcha veb-saytlar",module,Magento_Backend
+"Reload Data","Ma'lumotlarni qayta yuklash",module,Magento_Backend
+"Browse Files...","Fayllarni ko'rib chiqish...",module,Magento_Backend
+"Magento Admin Panel","Magento boshqaruv paneli",module,Magento_Backend
+"Account Setting","Hisobni sozlash",module,Magento_Backend
+"Customer View","Xaridor ko'rinishi",module,Magento_Backend
+"Sign Out",Chiqish,module,Magento_Backend
+"About the calendar","Taqvim haqida",module,Magento_Backend
+Close,Yopish,module,Magento_Backend
+"Go Today","Bugungi kunga borish",module,Magento_Backend
+Previous,Avvalgi,module,Magento_Backend
+Next,Keyingi,module,Magento_Backend
+Time,Vaqt,module,Magento_Backend
+Hour,Soat,module,Magento_Backend
+Minute,Daqiqa,module,Magento_Backend
+"JavaScript may be disabled in your browser.","Brauzeringizda JavaScript o'chirib qo'yilgan bo'lishi mumkin.",module,Magento_Backend
+"To use this website you must first enable JavaScript in your browser.","Ushbu veb-saytni ishlatish uchun brauzeringizda avval JavaScript-ni yoqishingiz kerak.",module,Magento_Backend
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","Bu demo do'koni. Ushbu saytda joylashtirilgan har qanday buyurtma ishlov berilmaydi yoki bajarilmaydi.",module,Magento_Backend
+"Stores Configuration","Do'konlarni sozlash",module,Magento_Backend
+"Additional Cache Management","Qo'shimcha keshlarni boshqarish",module,Magento_Backend
+"Flush Catalog Images Cache","Rasm keshini tozalash",module,Magento_Backend
+"Pregenerated product images files","Oldindan tayyorlangan tovarlar tasvirlari",module,Magento_Backend
+"Flush JavaScript/CSS Cache","JavaScript / CSS keshini tozalash",module,Magento_Backend
+"Flush Static Files Cache","Statik fayllar keshini o'chiring",module,Magento_Backend
+"Preprocessed view files and static files","Oldindan qayta ishlangan fayllar va statik fayllar",module,Magento_Backend
+Catalog,Katalog,module,Magento_Backend
+"JavaScript/CSS Cache","JavaScript/CSS Keshi",module,Magento_Backend
+"No records found.","Hech qanday yozuv topilmadi.",module,Magento_Backend
+Images,Rasmlar,module,Magento_Backend
+"Big Image","Katta rasm",module,Magento_Backend
+Thumbnail,"Kichik rasm",module,Magento_Backend
+"Additional Settings","Qo'shimcha sozlamalar",module,Magento_Backend
+"per page","bir sahifa uchun",module,Magento_Backend
+"Previous page","Oldingi sahifa",module,Magento_Backend
+"of %1","%1 dan",module,Magento_Backend
+"Next page","Keyingi sahifa",module,Magento_Backend
+"Export to:","Quyidagiga eksport qilish:",module,Magento_Backend
+Actions,Amallar,module,Magento_Backend
+"Mass Actions","Ommaviy tadbirlar",module,Magento_Backend
+"Unselect All","Barchasini tanlash",module,Magento_Backend
+"Select Visible","Ko'rinishni tanlang",module,Magento_Backend
+"Unselect Visible","Tanlanganni olib tashlash",module,Magento_Backend
+"The information in this tab has been changed.","Ushbu ichki oynadagi ma'lumot o'zgardi.",module,Magento_Backend
+Loading...,Yuklanmoqda...,module,Magento_Backend
+"System Backup","Tizimni zaxiralash",module,Magento_Backup
+"Database and Media Backup","Ma'lumotlar bazasi va media zaxiralash",module,Magento_Backup
+"Database Backup","Ma'lumotlar bazasini zahiralash",module,Magento_Backup
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","Arxiv Windows tizimlarida <a href=""%1"">%2</a> bilan siqilgan bo'lishi mumkin.",module,Magento_Backup
+"You need more permissions to activate maintenance mode right now.","Hozirgi vaqtda texnik rejimni yoqish uchun qo'shimcha huquqlar talab qilinadi.",module,Magento_Backup
+"You need more free space to create a backup.","Zahiraga ega bo'lish uchun ko'proq bo'sh joy kerak.",module,Magento_Backup
+"You need more permissions to create a backup.","Zahiraga ega bo'lish uchun qo'shimcha huquqlar talab qilinadi.",module,Magento_Backup
+Backups,Zaxiralashlar,module,Magento_Backup
+System,Tizim,module,Magento_Backup
+Tools,Asboblar,module,Magento_Backup
+Backup,Zaxiralash,module,Magento_Backup
+failed,xatolik,module,Magento_Backup
+successful,muvaffaqiyatli,module,Magento_Backup
+"Please correct the password.","Iltimos, parolni to'g'rilang.",module,Magento_Backup
+Database,"Ma'lumotlar bazasi",module,Magento_Backup
+"Database and Media","Ma'lumotlar bazasi va media fayllari",module,Magento_Backup
+"System (excluding Media)","Tizim (Mediadan tashqari)",module,Magento_Backup
+"Please correct the order of creation for a new backup.","Iltimos, yangi zaxira yaratish tartibini to'g'rilang.",module,Magento_Backup
+"The backup file does not exist.","Zaxira fayl mavjud emas.",module,Magento_Backup
+"The backup file path was not specified.","Zaxira faylining yo'li aniqlanmadi.",module,Magento_Backup
+"The backup file ""%1"" does not exist.","""%1"" zaxira fayli mavjud emas.",module,Magento_Backup
+"Sorry, but we cannot read from or write to backup file ""%1"".","Kechirasiz, lekin biz ""%1"" zaxira faylini o'qiy olmaymiz yoki yozolmaymiz.",module,Magento_Backup
+"The backup file handler was unspecified.","Zahiralangan fayllar yo'li ko'rsatilmagan.",module,Magento_Backup
+"Are you sure you want to continue?","Davom etishni xohlaysizmi?",module,Magento_Backup
+"This may take a few moments.","Bu bir necha daqiqa vaqt olishi mumkin.",module,Magento_Backup
+"Be sure your store is in maintenance mode during backup.","Do'kon zaxiralash paytida xizmat ko'rsatish rejimida ekanligiga ishonch hosil qiling.",module,Magento_Backup
+"Backup Name","Zaxiralash nomi",module,Magento_Backup
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","Iltimos, faqat ushbu harflardan foydalaning (a-z yoki A-Z), raqamlar (0-9) yoki probeldan.",module,Magento_Backup
+"Maintenance mode","Xizmat holati",module,Magento_Backup
+"Please put your store into maintenance mode during backup.","Zaxira paytida do'koningizni texnik rejimga o'tkazing.",module,Magento_Backup
+"Exclude media folder from backup","Media papkasini zahiradan chiqarib tashlang",module,Magento_Backup
+"Please enter the password to confirm rollback.","Qaytarilishni tasdiqlash uchun parolni kiriting.",module,Magento_Backup
+"This action cannot be undone.","Ushbu amalni bekor qilish mumkin emas.",module,Magento_Backup
+"User Password","Foydalanuvchi paroli",module,Magento_Backup
+"Please put your store into maintenance mode during rollback processing.","Qaytarish jarayonida do'koningizni texnik rejimga o'tkazing.",module,Magento_Backup
+"Use FTP Connection","FTP ulanishidan foydalaning",module,Magento_Backup
+"FTP credentials","FTP sozlamalari",module,Magento_Backup
+"FTP Host","FTP server",module,Magento_Backup
+"FTP Password","FTP Paroli",module,Magento_Backup
+"Magento root directory","Magentoning asosiy katalogi",module,Magento_Backup
+"Create Backup","Zahira nusxasini yarating",module,Magento_Backup
+Country,Mamlakat,module,Magento_Braintree
+"Allowed Credit Card Types","Ruxsat berilgan kredit kartalari turlari",module,Magento_Braintree
+"Add Rule","Qoida qo'shish",module,Magento_Braintree
+"Credit Card Type","Kredit kartasi turi",module,Magento_Braintree
+"Credit Card Number","Kredit karta raqami",module,Magento_Braintree
+"Expiration Date","Amal qilish muddati",module,Magento_Braintree
+"Card Verification Number","Karta tasdiqlash kodi",module,Magento_Braintree
+"What is this?","Bu nima?",module,Magento_Braintree
+Type,Turi,module,Magento_Braintree
+"Percent Discount","Foiz stavkasi",module,Magento_Bundle
+"-- Select --","-- Tanlang --",module,Magento_Bundle
+Dynamic,Dinamik,module,Magento_Bundle
+Fixed,"Ruxsat etilgan",module,Magento_Bundle
+"Create New Option","Yangi variant yaratish",module,Magento_Bundle
+"Add Products to Option","Variantlarga mahsulot qo'shish",module,Magento_Bundle
+Close,Yopish,module,Magento_Bundle
+"Delete Option","Variantni o'chirish",module,Magento_Bundle
+Product,Mahsulot,module,Magento_Bundle
+Price,Narx,module,Magento_Bundle
+Delete,O‘chirish,module,Magento_Bundle
+"Use Default Value","Standart qiymatdan foydalaning",module,Magento_Bundle
+"There is no defined renderer for ""%1"" option type.","""%1"" variant turi uchun maxsus hisobot berish usuli yo'q.",module,Magento_Bundle
+"As Low as","Juda kam",module,Magento_Bundle
+"Price Range","Narxlar oralig'i",module,Magento_Bundle
+"Please specify product option(s).","Mahsulot parametrlarini kiriting.",module,Magento_Bundle
+"The required options you selected are not available.","Siz tanlagan kerakli variantlar mavjud emas.",module,Magento_Bundle
+"Please select all required options.","Iltimos, barcha kerakli variantlarni tanlang.",module,Magento_Bundle
+Percent,Foiz,module,Magento_Bundle
+None,Yo'q,module,Magento_Bundle
+"Choose a selection...","Tanlovni tanlang...",module,Magento_Bundle
+"Ship Bundle Items","Mahsulot paketini kiriting",module,Magento_Bundle
+Separately,Alohida,module,Magento_Bundle
+Together,Birgalikda,module,Magento_Bundle
+"Option Title","Parametr nomi",module,Magento_Bundle
+"Store View Title","Do'kon ko'rinishi sarlavhasi",module,Magento_Bundle
+"Input Type","Kirish turi",module,Magento_Bundle
+Required,Majburiy,module,Magento_Bundle
+Position,Vaziyat,module,Magento_Bundle
+"There are no products in this option.","Ushbu versiyada hech qanday tovarlar yo'q.",module,Magento_Bundle
+"New Option","Yangi parametr",module,Magento_Bundle
+Default,Standart,module,Magento_Bundle
+Name,Ism,module,Magento_Bundle
+"Price Type","Narx turi",module,Magento_Bundle
+"Default Quantity","Standart miqdori",module,Magento_Bundle
+"User Defined","Foydalanuvchi uchun belgilangan",module,Magento_Bundle
+Ordered,"Buyurtma qilingan",module,Magento_Bundle
+Invoiced,Xarajatlar,module,Magento_Bundle
+Shipped,Yuborildi,module,Magento_Bundle
+Refunded,Qaytarildi,module,Magento_Bundle
+Canceled,"Bekor qilindi",module,Magento_Bundle
+"As low as","Juda kam",module,Magento_Bundle
+From,Kimdan,module,Magento_Bundle
+To,Kimga,module,Magento_Bundle
+"Buy %1 with %2 discount each","%1 ni %2 chegirma bilan sotib oling",module,Magento_Bundle
+"Go back to product details","Mahsulot ma'lumotlariga qaytish",module,Magento_Bundle
+"Customize and Add to Cart","Moslashtiring va savatga qo'shing",module,Magento_Bundle
+"* Required Fields","* To'ldirilishi majburiy joylar",module,Magento_Bundle
+"Your Customization","Sizning sozlamalaringiz",module,Magento_Bundle
+Availability,Mavjudligi,module,Magento_Bundle
+"In stock","Omborda mavjud",module,Magento_Bundle
+"Out of stock","Sotib bo'lingan",module,Magento_Bundle
+Summary,Xulosa,module,Magento_Bundle
+Availability:,Mavjudligi:,module,Magento_Bundle
+"Customize %1","%1 moslashtiring",module,Magento_Bundle
+"No options of this product are available.","Ushbu mahsulotning variantlari mavjud emas.",module,Magento_Bundle
+"Gift Message","Sovg'a xabarlari",module,Magento_Bundle
+From:,Kimdan:,module,Magento_Bundle
+To:,Kimga:,module,Magento_Bundle
+Message:,Xabar:,module,Magento_Bundle
+Always,"Har doim",module,Magento_Captcha
+"After number of attempts to login","Bir necha marta ruxsat berishga urinishdan so'ng",module,Magento_Captcha
+"Incorrect CAPTCHA","Noto'g'ri CAPTCHA",module,Magento_Captcha
+"Incorrect CAPTCHA.","CAPTCHA noto'g'ri.",module,Magento_Captcha
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Ogohlantirish</strong>: Captchani kirishda katta / kichik harflarga e'tibor bering.",module,Magento_Captcha
+"Reload captcha","Captcha-ni yangilash",module,Magento_Captcha
+"Shopping Cart",Savatcha,module,Magento_Checkout
+"Invalid method: %1","Noto'g'ri usul: %1",module,Magento_Checkout
+City,Shahar,module,Magento_Checkout
+Country,Mamlakat,module,Magento_Checkout
+State/Province,"Mamlakat / Viloyat",module,Magento_Checkout
+"Zip/Postal Code","Pochta indeksi",module,Magento_Checkout
+"My Cart (1 item)","Mening savatcham (1 dona)",module,Magento_Checkout
+"My Cart (%1 items)","Mening savatcham (%1 ta)",module,Magento_Checkout
+"My Cart","Mening savatcham",module,Magento_Checkout
+"You added %1 to your shopping cart.","Savatchaga %1 qo'shildi.",module,Magento_Checkout
+"We cannot configure the product.","Mahsulotni sozlab bo'lmaymiz.",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","""%1"" kupon kodi haqiqiy emas.",module,Magento_Checkout
+"We cannot apply the coupon code.","Kupon kodini qo'llashimiz mumkin emas.",module,Magento_Checkout
+"%1 was updated in your shopping cart.","Savatchada %1 yangilandi.",module,Magento_Checkout
+Checkout,"Tekshirib ko'rmoq",module,Magento_Checkout
+"The product does not exist.","Mahsulot mavjud emas.",module,Magento_Checkout
+"We don't have some of the products you want.","Siz xohlagan mahsulot yo'q.",module,Magento_Checkout
+"We don't have as many of some products as you want.","Siz xohlagan ko'p mahsulotlar mavjud emas.",module,Magento_Checkout
+"Add Products to New Option","Mahsulotlarni yangi variantga qo'shish",module,Magento_Bundle
+"Add Products to Option ""%1""","""%1"" parametriga mahsulot qo'shish",module,Magento_Bundle
+"Add Selected Products","Tanlangan mahsulotlarni qo'shing",module,Magento_Bundle
+"Use HTTPS to Get Feed","Ovqatni olish uchun HTTPS-dan foydalaning",module,Magento_AdminNotification
+"Update Frequency","Chastotani yangilash",module,Magento_AdminNotification
+"Last Update","Oxirgi yangilash",module,Magento_AdminNotification
+Severity,Zo'ravonlik,module,Magento_AdminNotification
+"Date Added","Sana qo'shildi",module,Magento_AdminNotification
+Message,Xabar,module,Magento_AdminNotification
+Actions,Amallar,module,Magento_AdminNotification
+"Authorize.net Direct Post","To'g'ridan-to'g'ri xabar Authorize.Net",module,Magento_Authorizenet
+Enabled,Faol,module,Magento_Authorizenet
+"Payment Action","To'lov turi",module,Magento_Authorizenet
+Title,Sarlavha,module,Magento_Authorizenet
+"API Login ID","API kirish identifikatori",module,Magento_Authorizenet
+"Transaction Key","Jurnal kaliti",module,Magento_Authorizenet
+"New Order Status","Yangi buyurtma holati",module,Magento_Authorizenet
+"Test Mode","Sinov holati",module,Magento_Authorizenet
+"Gateway URL","Gateway URL manzili",module,Magento_Authorizenet
+"Accepted Currency","Qabul qilingan valyuta",module,Magento_Authorizenet
+Debug,"Xatolarni tuzatish",module,Magento_Authorizenet
+"Email Customer","Mijozning email manzili",module,Magento_Authorizenet
+"Merchant's Email","Sotuvchining email manzili",module,Magento_Authorizenet
+"Credit Card Types","Kredit karta turlari",module,Magento_Authorizenet
+"Credit Card Verification","Kredit kartalarini tekshirish",module,Magento_Authorizenet
+"Payment from Applicable Countries","Tegishli mamlakatlarda to'lov",module,Magento_Authorizenet
+"Payment from Specific Countries","Muayyan mamlakatlardan to'lov",module,Magento_Authorizenet
+"Minimum Order Total","Minimal buyurtma miqdori",module,Magento_Authorizenet
+"Maximum Order Total","Maksimal Buyurtma miqdori",module,Magento_Authorizenet
+"Sort Order","Tartiblash tartibi",module,Magento_Authorizenet
+Services,Xizmatlar,module,Magento_Backend
+Advanced,Murakkab,module,Magento_Backend
+"Disable Modules Output","Chiqish modullarini o'chirish",module,Magento_Backend
+"Store Email Addresses","Do'kon Email manzili",module,Magento_Backend
+"Custom Email 1","Maxsus Email 1",module,Magento_Backend
+"Sender Email","Yuboruvchi Email",module,Magento_Backend
+"Sender Name","Yuboruvchi nomi",module,Magento_Backend
+"Custom Email 2","Maxsus Email 2",module,Magento_Backend
+"General Contact","Bosh kontakt",module,Magento_Backend
+"Sales Representative","Savdo bo'yicha menejer",module,Magento_Backend
+"Customer Support","Mijozlarni qo'llab-quvvatlash",module,Magento_Backend
+Design,Dizayn,module,Magento_Backend
+"How many links to display at once.","Bir vaqtning o'zida bir nechta URL lar ko'rsatiladi.",module,Magento_Backend
+"Anchor Text for Previous","Avvalgi matnni bog'lash",module,Magento_Backend
+"Anchor Text for Next","Keyingi uchun matn joylashtiring",module,Magento_Backend
+Developer,Dasturchi,module,Magento_Backend
+Debug,"Xatolarni tuzatish",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Do'kon uchun yo'l takliflari shablonini yoqish",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Administrator uchun yo'l takliflari shablonini yoqish",module,Magento_Backend
+"Template Settings","Template sozlamalari",module,Magento_Backend
+"Allow Symlinks","URL larga ruxsat berish",module,Magento_Backend
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Ogohlantirish! Ushbu xususiyatni yoqish ishlab chiqarish muhitida tavsiya etilmaydi, chunki u potentsial xavfsizlik tavsifini ifodalaydi.",module,Magento_Backend
+"Minify Html","HTMLni kichiklashtirish",module,Magento_Backend
+"Translate Inline","Inline tarjima qiling",module,Magento_Backend
+"Enabled for Storefront","Frontend uchun yoqilgan",module,Magento_Backend
+"Enabled for Admin","Administrator uchun yoqilgan",module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Tarjimalar, bloklar va boshqa chiqish keshlari ichki o'rnatilgan tarjimalarning old tomoni va administratori uchun o'chirib qo'yilishi kerak.",module,Magento_Backend
+"JavaScript Settings","JavaScript sozlamalari",module,Magento_Backend
+"Merge JavaScript Files","JavaScript fayllarini birlashtirish",module,Magento_Backend
+"Minify JavaScript Files","JavaScript fayllarini kichraytirish",module,Magento_Backend
+"CSS Settings","CSS sozlamalari",module,Magento_Backend
+"Merge CSS Files","CSS fayllarini birlashtirish",module,Magento_Backend
+"Minify CSS Files","CSS fayllarini kichraytirish",module,Magento_Backend
+"Image Processing Settings","Rasmni qayta ishlash sozlamalari",module,Magento_Backend
+"Image Adapter","Rasm adapteri",module,Magento_Backend
+"Static Files Settings","Statik fayllar sozlamalari",module,Magento_Backend
+"Sign Static Files","Statik fayllarni imzolash",module,Magento_Backend
+"Country Options","Davlat parametrlari",module,Magento_Backend
+"Allow Countries","Davlatlarga ruxsat berish",module,Magento_Backend
+"Default Country","Odatiy Davlat",module,Magento_Backend
+"European Union Countries","Evropa Ittifoqi mamlakatlari",module,Magento_Backend
+"Top destinations","Ommaviy joylar",module,Magento_Backend
+"Locale Options","Mahalliy parametrlar",module,Magento_Backend
+Timezone,"Vaqt zonasi",module,Magento_Backend
+Locale,Mahalliy,module,Magento_Backend
+"First Day of Week","Haftaning birinchi kuni",module,Magento_Backend
+"Weekend Days","Hafta kunlari",module,Magento_Backend
+"Store Name","Do'kon nomi",module,Magento_Backend
+"Store Phone Number","Do'konning telefon raqami",module,Magento_Backend
+"Store Hours of Operation","Do'konning ish vaqti",module,Magento_Backend
+Country,Mamlakat,module,Magento_Backend
+Region/State,Viloyat/Davlat,module,Magento_Backend
+"ZIP/Postal Code","Pochta indeksi",module,Magento_Backend
+City,Shahar,module,Magento_Backend
+"Street Address","Ko'cha manzili",module,Magento_Backend
+"Street Address Line 2","Ko'cha manzili yo'nalishi 2",module,Magento_Backend
+"VAT Number","QQS raqami",module,Magento_Backend
+"Single-Store Mode","Bitta do'kon rejimi",module,Magento_Backend
+"Enable Single-Store Mode","Bitta do'kon rejimi yoqilsin",module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.","Tizimda bir nechta do'kon ko'rinishi bo'lsa, ushbu parametr hisobga olinmaydi.",module,Magento_Backend
+"Mail Sending Settings","Pochta yuborish sozlamalari",module,Magento_Backend
+"Disable Email Communications","Email aloqalarini o'chirib qo'yish",module,Magento_Backend
+Host,Xost,module,Magento_Backend
+"Set Return-Path","Qaytish yo'lini belgilash",module,Magento_Backend
+"Return-Path Email","Orqaga qaytish yo'li",module,Magento_Backend
+"Admin User Emails","Administratorning elektron pochtalari",module,Magento_Backend
+"Forgot Password Email Template","E-mail shablonni parolni unutdingizmi",module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail shabloni ""Standart"" parametrini tanlashda zahira parametrlari mavzusiga asoslangan holda tanlanadi.",module,Magento_Backend
+"Forgot and Reset Email Sender","Elektron pochta jo'natuvchini unutib qo'ymang",module,Magento_Backend
+"Please enter a number 1 or greater in this field.","Iltimos, 1 yoki undan ortiq raqamni kiriting.",module,Magento_Backend
+"Startup Page","Bosh sahifa",module,Magento_Backend
+"Use Custom Admin URL","Maxsus administrator URL-dan foydalaning",module,Magento_Backend
+"Custom Admin URL","Maxsus administrator URL manzili",module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Base URL ning ""/"" (oldinga slash) bilan tugaganligiga ishonch hosil qiling, masalan: http://yourdomain/magento/",module,Magento_Backend
+"Use Custom Admin Path","Maxsus boshqaruv usuli yordamida",module,Magento_Backend
+"Custom Admin Path","Maxsus boshqarish usuli",module,Magento_Backend
+Security,Xavfsizlik,module,Magento_Backend
+"Add Secret Key to URLs","URL manzillari uchun maxfiy kalitni qo'shing",module,Magento_Backend
+"Login is Case Sensitive","Login katta ahamiyatga ega",module,Magento_Backend
+"Admin Session Lifetime (seconds)","Admin seansining ishlash muddati (sekundlarda)",module,Magento_Backend
+"Enable Charts","Grafiklarni yoqish",module,Magento_Backend
+"Url Options","Url parametrlari",module,Magento_Backend
+"Add Store Code to Urls","Do'kon kodini URLlarga qo'shish",module,Magento_Backend
+"Auto-redirect to Base URL","Asosiy URL-ga avtomatik yo'naltirish",module,Magento_Backend
+"Search Engine Optimization","Qidiruv mexanizmi optimallashtirish",module,Magento_Backend
+"Use Web Server Rewrites","Veb-serverni qayta tiklashni ishlatish",module,Magento_Backend
+"Specify URL or {{base_url}} placeholder.","URL manzili yoki {{base_url}} manzilini ko'rsating.",module,Magento_Backend
+"Base URL for Static View Files","Statik fayllarni ko'rish uchun asosiy URL",module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","Bo'sh bo'lishi yoki {{unsecure_base_url}} dan boshlanishi mumkin.",module,Magento_Backend
+"Base URL for User Media Files","Media fayllari foydalanuvchilari uchun tayanch URL",module,Magento_Backend
+"Base URLs (Secure)","Asosiy URL lar (Xavfsiz)",module,Magento_Backend
+"Secure Base URL","Xavfsiz asosiy URL",module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","{{base_url}} yoki {{unsecure_base_url}} ning URL manzilini belgilang.",module,Magento_Backend
+"Secure Base Link URL","Xavfsiz bazaga havola URL",module,Magento_Backend
+"Secure Base URL for Static View Files","Statik fayllarni ko'rish uchun xavfsiz taglik URL manzil",module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Bu bo'sh bo'lishi yoki {{secure_base_url}} yoki {{unsecure_base_url}} bilan boshlanishi mumkin.",module,Magento_Backend
+"Secure Base URL for User Media Files","Foydalanuvchi Media fayllari uchun xavfsiz Baza URL",module,Magento_Backend
+"Use Secure URLs on Storefront","Frontenddagi Xavfsiz Baza URL-laridan foydalaning",module,Magento_Backend
+"Use Secure URLs in Admin","Administratordagi xavfsiz URL-lardan foydalaning",module,Magento_Backend
+"Offloader header","Offloader sarlavhasi",module,Magento_Backend
+"Default Pages","Standart sahifalar",module,Magento_Backend
+"Default Web URL","Standart veb-manzili",module,Magento_Backend
+"Default No-route URL","Standart No-route URL",module,Magento_Backend
+"Session Validation Settings","Sessiya sozlamalarini sinab ko'ring",module,Magento_Backend
+"Validate REMOTE_ADDR","REMOTE_ADDR ni tekshirib ko'ring",module,Magento_Backend
+"Validate HTTP_VIA","HTTP_VIA ni tekshirib ko'ring",module,Magento_Backend
+"Validate HTTP_X_FORWARDED_FOR","HTTP_X_FORWARDED_FOR ni tekshirib ko'ring",module,Magento_Backend
+"Validate HTTP_USER_AGENT","HTTP_USER_AGENTni tekshirib ko'ring",module,Magento_Backend
+"Use SID on Storefront","Frontendda SID dan foydalanish",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Turli do'konlarni almashtirishda mijozlarga tizimda qolish imkonini beradi.",module,Magento_Backend
+"Cache Type","Kesh turi",module,Magento_Backend
+Description,Ta'rif,module,Magento_Backend
+Tags,Teglar,module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Xato</h1><p>Sahifa topilmadi.</p>",module,Magento_Backend
+"Scheduled Backup Settings","Jadvaldagi arxivlash parametrlari",module,Magento_Backup
+"Enable Scheduled Backup","Jadvaldagi zaxirani yoqish",module,Magento_Backup
+"Backup Type","Zaxira turi",module,Magento_Backup
+"Start Time","Boshlanish vaqti",module,Magento_Backup
+Frequency,Muntazamlik,module,Magento_Backup
+"Maintenance Mode","Xizmat rejimi",module,Magento_Backup
+Delete,O‘chirish,module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","Siz tanlagan zahira(lar) ni o'chirmoqchimisiz?",module,Magento_Backup
+Time,Vaqt,module,Magento_Backup
+Name,Ism,module,Magento_Backup
+Size(bytes),"Hajmi (bytes)",module,Magento_Backup
+Type,Turi,module,Magento_Backup
+Download,"Yuklab oling",module,Magento_Backup
+Action,Harakat,module,Magento_Backup
+Rollback,"Orqaga qaytish",module,Magento_Backup
+"Enable this Solution","Ushbu biznesni yoqing",module,Magento_Braintree
+"Enable PayPal through Braintree","Braintree orqali PayPal'ni yoqing",module,Magento_Braintree
+Title,Sarlavha,module,Magento_Braintree
+Environment,"Atrof muhit",module,Magento_Braintree
+"Merchant Account ID","Savdo Profil ID",module,Magento_Braintree
+"Merchant ID","Savdo identifikatori",module,Magento_Braintree
+"Public Key","Umumiy kalit",module,Magento_Braintree
+"Private Key","Yashirin kalit",module,Magento_Braintree
+Debug,"Xatolarni tuzatish",module,Magento_Braintree
+"CVV Verification","CVV tekshiruvi",module,Magento_Braintree
+"Credit Card Types","Kredit kartasi turlari",module,Magento_Braintree
+"Advanced Fraud Protection","Qalloblikdan himoya qilishni yaxshilash",module,Magento_Braintree
+"Payment from Applicable Countries","Qo'llaniladigan mamlakatlar to'lovi",module,Magento_Braintree
+"Payment from Specific Countries","Muayyan mamlakatlardan to'lov",module,Magento_Braintree
+"Country Specific Credit Card Types","Mamlakatga maxsus kredit kartalari turlari",module,Magento_Braintree
+"3D Secure Verification Settings","3D Secure tasdiqlash sozlamalari",module,Magento_Braintree
+"3D Secure Verification","3D Secure tekshirish",module,Magento_Braintree
+"Enable CAPTCHA in Admin","Administrator panelida CAPTCHA-ni yoqish",module,Magento_Captcha
+Font,Shrift,module,Magento_Captcha
+Forms,Shakllar,module,Magento_Captcha
+"Displaying Mode","Tartibni ko'rsatish",module,Magento_Captcha
+"Number of Unsuccessful Attempts to Login","Kirish uchun muvaffaqiyatsiz urinishlar soni",module,Magento_Captcha
+"If 0 is specified, CAPTCHA on the Login form will be always available.","0 belgilansa, kirish shaklidagi CAPTCHA har doim mavjud bo'ladi.",module,Magento_Captcha
+"CAPTCHA Timeout (minutes)","CAPTCHA kutish vaqti (daqiqada)",module,Magento_Captcha
+"Number of Symbols","Belgilar soni",module,Magento_Captcha
+"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Iltimos, 8 ta belgini kiriting. Range ruxsat etilgan (masalan, 3-5)",module,Magento_Captcha
+"Symbols Used in CAPTCHA","CAPTCHAda ishlatiladigan belgilar",module,Magento_Captcha
+"Case Sensitive","Katta-kichik harfni farqlash",module,Magento_Captcha
+"Enable CAPTCHA on Storefront","Frontend-da CAPTCHA-ni yoqish",module,Magento_Captcha
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","""Foydalanuvchi yaratish"" va ""Parolni unutdingizmi"" shakllari uchun CAPTCHA har doim yoqilgan.",module,Magento_Captcha
+"For delivery questions.","Yetkazib berish bo'yicha savollar.",module,Magento_Checkout
